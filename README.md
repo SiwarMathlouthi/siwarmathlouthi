@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Siwar
 
-<!--
-**SiwarMathlouthi/siwarmathlouthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cybersecurity Engineer with hands-on experience in SIEM, log analysis, threat detection, and security automation.
 
-Here are some ideas to get you started:
+## Focus
+- SOC Analysis
+- Wazuh / ELK
+- Detection Engineering
+- Python Automation
+- Incident Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Wazuh-ELK SIEM Lab
+- Custom Detection Rules
+- Security Log Parser in Python
+- Incident Response Case Study
+
+## Tools
+Wazuh, Elasticsearch, Logstash, Kibana, Python, Linux, VMware, Git, GitHub
+
+## Contact
+- LinkedIn: www.linkedin.com/in/siwar-mathlouthi-a59099286
+
+- Email: mathlouthisiwar01@gmail.com
